@@ -8,4 +8,4 @@ redirect_from:
   - /resume
 ---
 
-
+Click [here](/files/CV_Farshad.pdf) to download my CV.
