@@ -16,8 +16,8 @@ main:
    # url: /year-archive/
     
   - title: "CV"
-   url: /files/CV_Farshad_N.pdf
-     code: true
+   url: /CV/
+
     
   #- title: "Guide"
   #  url: /markdown/
