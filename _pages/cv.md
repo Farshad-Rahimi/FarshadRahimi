@@ -1,8 +1,7 @@
 ---
 layout: archive
 title: "CV"
-url: /assets/docs/CV_Farshad.pdf
- code: true
+url: /files/CV_Farshad.pdf
 permalink: /cv/
 author_profile: true
 redirect_from:
