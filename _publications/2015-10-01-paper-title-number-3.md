@@ -1,27 +1,27 @@
-
+---
+layout: splash
 title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
 
-
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
- M. Pirani, **F. Rahimi**."Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems.,",under completing.
+ M. Pirani, **F. Rahimi**. "Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems.", under completing.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**."An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems.,", 2023,under completing.
+**F. Rahimi**. "An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems.", 2023, under completing.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**. " A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completing. 
+**F. Rahimi**. "A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completing. 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi, F.**, and H. Rezaei. [A Distributed Fault Estimation Approach for a Class of Continuous-time Nonlinear Networked Systems Subject to Communication Delays](https://ieeexplore.ieee.org/abstract/document/9397783){:style="color: blue"}. *IEEE Control Systems Letters*, 6 (2021): 295-300.
-
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi, F.**, and H. Rezaei. [An event-triggered recursive state estimation approach for time-varying nonlinear complex networks with quantization effects](https://www.sciencedirect.com/science/article/abs/pii/S0925231220316088){:style="color: blue"}. *Neurocomputing* 426 (2021): 104-113.
@@ -41,7 +41,6 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi. F.**, [Distributed optimization problem with communication delays for heterogeneous linear multi-agent systems](https://doi.org/10.48550/arXiv.2208.10549){:style="color: blue"}. *IET Control Theory & Applications*, (to appear).
 
-
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Conferences proceedings
 
@@ -52,7 +51,7 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 **Rahimi, F.**, and Reza Mahboobi Esfanjani. [A Distributed Dual Decomposition Optimization Approach for Coordination of Mobile Networked Robots with Communication Delay](https://ieeexplore.ieee.org/abstract/document/9663474){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
- **Rahimi, F.** [Distributed Control for Nonlinear Multi-Agent Systems Subject to Communication Delays and Cyber-Attacks: Applied to One-Link Manipulators](https://ieeexplore.ieee.org/abstract/document/9663446){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
+**Rahimi, F.** [Distributed Control for Nonlinear Multi-Agent Systems Subject to Communication Delays and Cyber-Attacks: Applied to One-Link Manipulators](https://ieeexplore.ieee.org/abstract/document/9663446){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi. F.**, Ziaee. S. ,[Reinforcement learning-based optimized control for tracking of nonlinear systems with adversarial attacks](https://doi.org/10.48550/arXiv.2209.02165){:style="color: blue"}.
