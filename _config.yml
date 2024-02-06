@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 Email:
-  username               : rahimi6sfarshad@gmail.com
+  username: &rahimi6sfarshad@gmail.com
 facebook:
   username               :
   app_id                 :
