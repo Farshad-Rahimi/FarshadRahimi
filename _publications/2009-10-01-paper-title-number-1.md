@@ -5,17 +5,23 @@ permalink: /publications/
 author_profile: false
 ---
 
+<div style="margin: 20px 0;">
+
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Pre-prints
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
- M. Pirani, **F. Rahimi**. "Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems," under completing.
+ M. Pirani, **F. Rahimi**. "Game-Theoretic Security-Aware Network Formation of Multi-Agent Systems," under completion.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**. "An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems," 2023, under completing.
+**F. Rahimi**. "An unknown input method-based distributed fault estimation for interconnect heterogeneous multi-agent systems," 2023, under completion.
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**. "A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completing. 
+**F. Rahimi**. "A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completion. 
+
+</div>
+
+<div style="margin: 20px 0;">
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
@@ -41,6 +47,10 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi. F.**. [Distributed optimization problem with communication delays for heterogeneous linear multi-agent systems](https://doi.org/10.48550/arXiv.2208.10549){:style="color: blue"}. *IET Control Theory & Applications*, (to appear).
 
+</div>
+
+<div style="margin: 20px 0;">
+
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Conferences proceedings
 
@@ -55,3 +65,5 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi. F.**, Ziaee. S. [Reinforcement learning-based optimized control for tracking of nonlinear systems with adversarial attacks](https://doi.org/10.48550/arXiv.2209.02165){:style="color: blue"}.
+
+</div>
