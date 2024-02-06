@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I got a B.S. Degree in Robotic Engineering and an M.S. Degree in Electrical (Control) Engineering from Hamedan University of Technology and Sahand University of Technology in Iran. My academic journey commenced with my thesis, which was all about making a group of mobile robots move together through distributed optimization. This experience introduced me to the basics of optimization and estimation in multi-agent systems.
+
+After that, my main research focus switched to figuring out how to control things in a distributed way and using learning-based methods. I worked as a research consultant for online platforms like [Tehrantrainer](https://www.tehrantrainer.com/), where I basically fixed and improved the computer codes for published papers, mainly on control topics.
+Besides the consulting and teaching, I did [my own research](https://scholar.google.com/citations?user=KOzMTRsAAAAJ&hl=en&oi=ao) too. My current research interestings are like making robots work better together, game theory, handling mistakes, and learning new stuff. I'm especially interested in how these things can be used in the real world for mobile robots and self-operating systems.
+
 
 A data-driven personal website
 ======
