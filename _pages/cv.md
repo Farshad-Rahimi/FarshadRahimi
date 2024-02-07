@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](https://github.com/Farshad-Rahimi/FarshadRahimi/files/CV_Farshad_N.pdf){: .btn .btn--success .btn--large}
+[Download CV](https://github.com/Farshad-Rahimi/FarshadRahimi/tree/main/files/CV_Farshad_N.pdf){: .btn .btn--success .btn--large}
