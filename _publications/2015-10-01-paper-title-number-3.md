@@ -50,8 +50,4 @@ Rezaei, H., Farnam, A., **Rahimi. F,** and Guillaume. C. [A Scalable Distributed
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **Rahimi, F.**, and Reza Mahboobi Esfanjani. [A Distributed Dual Decomposition Optimization Approach for Coordination of Mobile Networked Robots with Communication Delay](https://ieeexplore.ieee.org/abstract/document/9663474){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
 
-{: .text-justify style="font-size: 12pt" reversed="reversed"}
-**Rahimi, F.** [Distributed Control for Nonlinear Multi-Agent Systems Subject to Communication Delays and Cyber-Attacks: Applied to One-Link Manipulators](https://ieeexplore.ieee.org/abstract/document/9663446){:style="color: blue"}. *2021 9th RSI International Conference on Robotics and Mechatronics (IcRoM)*. IEEE, 2021.
 
-{: .text-justify style="font-size: 12pt" reversed="reversed"}
-**Rahimi. F.**, Ziaee. S. ,[Reinforcement learning-based optimized control for tracking of nonlinear systems with adversarial attacks](https://doi.org/10.48550/arXiv.2209.02165){:style="color: blue"}.
