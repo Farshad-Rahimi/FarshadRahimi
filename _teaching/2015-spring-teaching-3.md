@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Programming Codes"
-permalink: /Programming Codes/
+title: "Learning Julia"
+permalink: /Learning Julia/
 author_profile: false
 code: true
 ---
