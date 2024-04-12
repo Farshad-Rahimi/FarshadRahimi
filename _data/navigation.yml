@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-   - title: "Learning Julia"
+  - title: "Learning Julia"
     url: /Learning Julia/ 
     
   - title: "CV"
