@@ -23,7 +23,8 @@ https://www.osc.edu/resources/getting_started/howto/howto_install_a_matlab_toolb
 After that, you can run the attached codes. 
 - [Matlab_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/CodeprogrammingMatlab_example2_2.rar){: .btn .btn--success .btn--large}
 
-
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
+#### Codes for Q-learning and learning based control 
 
 
 
