@@ -16,6 +16,10 @@ In this section, I would like to share my experience and sample codes from my pa
 Here, you can download a problem of tracking for nonlinear system using RL.
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_My_code.rar){: .btn .btn--success .btn--large}
 
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
+### ADP_Based Falut Tolerant
+- [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Simulation_Julia_ADP.rar){: .btn .btn--success .btn--large}
+
 
 
 
