@@ -24,5 +24,6 @@ Here, you can download a problem of tracking for nonlinear system using RL.
 ### An Online Fault-Tolerant Control Approach Based on Policy Iteration
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Simulation.rar){: .btn .btn--success .btn--large}
 
-
+### Fault-Tolerant Control Approach using neural network observer
+- [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_codes_Neural_observer.rar){: .btn .btn--success .btn--large}
 
