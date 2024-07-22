@@ -27,7 +27,7 @@ After that, you can run the attached codes.
 #### Codes for Q-learning and learning based control 
 
 Here, you can download some code examples for learning-based control and Lyapunov theory.
-- [Learning_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/learningCodes.rar){: .btn .btn--success .btn--large}
+- [Drug_dosing_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/learningCodes.rar){: .btn .btn--success .btn--large}
 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
