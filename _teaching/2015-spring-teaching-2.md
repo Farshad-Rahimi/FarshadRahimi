@@ -27,11 +27,11 @@ After that, you can run the attached codes.
 #### Codes for Q-learning and learning based control 
 
 Here, you can download some code examples for learning-based control and Lyapunov theory.
-- [Drug_dosing_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/learningCodes.rar){: .btn .btn--success .btn--large}
+- [Q_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/learningCodes.rar){: .btn .btn--success .btn--large}
 
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Codes for critic learning-based chemotherapy in cancer treatment  
 
 Here, you can download the code of this paper.
-- [Learning_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Final_version_codes.rar){: .btn .btn--success .btn--large}
+- [Drug_dosing_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Final_version_codes.rar){: .btn .btn--success .btn--large}
