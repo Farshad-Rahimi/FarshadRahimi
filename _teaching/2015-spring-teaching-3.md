@@ -28,4 +28,5 @@ Here, you can download a problem of tracking for nonlinear system using RL.
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_codes_Neural_observer.rar){: .btn .btn--success .btn--large}
 
 ### Optimizing Drug Administration in Cancer Therapy
-- [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_codes_Neural_observer.rar){: .btn .btn--success .btn--large}
+Here, you can download the code of this paper.
+- [Drug_dosing_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Final_version_codes.rar){: .btn .btn--success .btn--large}
