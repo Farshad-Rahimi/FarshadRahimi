@@ -27,3 +27,5 @@ Here, you can download a problem of tracking for nonlinear system using RL.
 ### Fault-Tolerant Control Approach using neural network observer
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_codes_Neural_observer.rar){: .btn .btn--success .btn--large}
 
+### Optimizing Drug Administration in Cancer Therapy
+- [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_codes_Neural_observer.rar){: .btn .btn--success .btn--large}
