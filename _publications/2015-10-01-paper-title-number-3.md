@@ -14,9 +14,9 @@ author_profile: false
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **F. Rahimi**. "A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology," 2023, under completing. 
 
-{: .text-justify style="font-size: 16pt" reversed="reversed"}
----
 
+---
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
