@@ -17,7 +17,7 @@ Here, you can download a problem of tracking for nonlinear system using RL.
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Julia_My_code.rar){: .btn .btn--success .btn--large}
 
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
-### Adaptive dynamic programming-based fault tolerant control for nonlinear time-delay systems
+### Adaptive dynamic programming
 - [My Julia_Codes](https://farshad-rahimi.github.io/FarshadRahimi/files/Simulation_Julia_ADP1.rar){: .btn .btn--success .btn--large}
 
 
