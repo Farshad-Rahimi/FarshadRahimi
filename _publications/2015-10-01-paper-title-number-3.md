@@ -17,7 +17,7 @@ author_profile: false
 
 ---
 {: .text-justify style="font-size: 24pt" reversed="reversed"}
-#### Journals articles
+#### Journals Papers
 
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
@@ -58,7 +58,7 @@ Rezaei, H., Farnam, A., **<span style="color:green;">Rahimi, Farshad</span>**, a
 
 ---
 
-#### Conferences proceedings
+#### Conferences Papers
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **<span style="color:green;">Rahimi, Farshad</span>**, Sepideh Ziaei, and Reza Mahboobi Esfanjani. [A reinforcement learning-based control approach for tracking problem of a class of nonlinear systems: applied to a single-link manipulator](https://ieeexplore.ieee.org/abstract/document/10334874){:style="color: red"}. *2023 31st International Conference on Electrical Engineering (ICEE)*. IEEE, 2023.  
