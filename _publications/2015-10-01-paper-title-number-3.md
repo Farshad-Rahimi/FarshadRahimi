@@ -19,6 +19,11 @@ author_profile: false
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals articles
 
+
+{: .text-justify style="font-size: 12pt" reversed="reversed"}
+**<span style="color:green;">Rahimi, Farshad</span>**. [An online fault-tolerant control approach based on policy iteration algorithm for nonlinear time-delay systems](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2440785){:style="color: red"} *International Journal of Systems Science*, 2024.  
+**DOI**: [https://doi.org/10.1080/00207721.2024.2440785](https://doi.org/10.1080/00207721.2024.2440785)
+
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
 **<span style="color:green;">Rahimi, Farshad</span>**. [Adaptive dynamic programming-based fault tolerant control for nonlinear time-delay systems](https://www.sciencedirect.com/science/article/abs/pii/S0960077924010968){:style="color: red"} *Chaos, Solitons & Fractals*, 188 (2024): 115544.  
 **DOI**: [https://www.sciencedirect.com/science/article/abs/pii/S0960077924010968](https://www.sciencedirect.com/science/article/abs/pii/S0960077924010968)
