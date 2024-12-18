@@ -16,7 +16,7 @@ author_profile: false
 
 
 ---
-{: .text-justify style="font-size: 24pt" reversed="reversed"}
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Journals Papers
 
 
