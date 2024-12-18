@@ -57,7 +57,7 @@ Rezaei, H., Farnam, A., **<span style="color:green;">Rahimi, Farshad</span>**, a
 **DOI**: [https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12595](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12595)
 
 ---
-
+{: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Conferences Papers
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
