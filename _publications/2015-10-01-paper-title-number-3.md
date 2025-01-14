@@ -20,7 +20,7 @@ author_profile: false
 #### Journals Papers
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
-**<span style="color:green;">Rahimi, Farshad</span>**. [Fault-tolerant control for nonlinear time-delay systems using neural network observers](https://link.springer.com/article/10.1007/s40435-024-01536-y){:style="color: red"} *International Journal of Systems Science*, 2024.  
+**<span style="color:green;">Rahimi, Farshad</span>**. [Fault-tolerant control for nonlinear time-delay systems using neural network observers](https://link.springer.com/article/10.1007/s40435-024-01536-y){:style="color: red"} *International Journal of Dynamics and Control*, 2025.  
 **DOI**: [https://doi.org/10.1007/s40435-024-01536-y](https://doi.org/10.1007/s40435-024-01536-y)
 
 {: .text-justify style="font-size: 12pt" reversed="reversed"}
