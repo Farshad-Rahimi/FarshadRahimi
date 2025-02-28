@@ -8,11 +8,7 @@ author_profile: false
 {: .text-justify style="font-size: 16pt" reversed="reversed"}
 #### Pre-prints
 
-{: .text-justify style="font-size: 12pt" reversed="reversed"}
- M. Pirani, **F. Rahimi**. "Game-Theoretic  Network Formation of Multi-Agent Systems.", under completing.
 
-{: .text-justify style="font-size: 12pt" reversed="reversed"}
-**F. Rahimi**. "A distributed optimal controller for DC-isolated microgrids powered by renewable energy sources with switching communication topology,", under completing. 
 
 
 ---
