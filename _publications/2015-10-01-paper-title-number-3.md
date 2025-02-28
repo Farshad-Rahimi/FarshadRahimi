@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 
-{: .text-justify style="font-size: 16pt" reversed="reversed"}
-#### Pre-prints
 
 
 
