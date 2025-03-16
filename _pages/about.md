@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Farshad Rahimi, an accomplished electrical engineer with a Master’s degree in Control Systems from Sahand University of Technology, Tabriz, Iran, and a Bachelor’s degree in Robotic Engineering from Hamedan University of Technology. 
-With over five years of experience as a research consultant, assistant researcher, and laboratory assistant, I possess expertise in fault-tolerant control, distributed optimization, and nonlinear systems. Additionally, I have served as a consultant on online platforms, such as Tehran Trainer, where I provided expert guidance on academic and industrial projects, including reverse engineering tasks, such as extracting control structures from existing code. Furthermore, I have re-implemented the coding for various control-related articles published in reputable journals.
+**About Me**  
+I am Farshad Rahimi, an accomplished electrical engineer holding a Master’s degree in Control Systems from Sahand University of Technology, Tabriz, Iran, and a Bachelor’s degree in Robotic Engineering from Hamedan University of Technology. With over five years of professional experience, I have worked as a research consultant, assistant researcher, and laboratory assistant, developing specialized expertise in fault-tolerant control, distributed optimization, and nonlinear systems.  
 
-My technical proficiency encompasses an  array of tools and programming languages, including MATLAB, Webots (for simulating the formation control of mobile robots), and Julia. Sample codes are available on my personal website (farshad-rahimi.github.io/FarshadRahimi), where I also provide the code accompanying my published papers.
+In addition to my research roles, I have provided consultancy services on online platforms, such as Tehran Trainer, where I offered expert guidance on academic and industrial projects. My consultancy work includes reverse engineering tasks, such as analyzing and extracting control structures from existing code. I have also re-implemented code for various control-related articles published in reputable academic journals, ensuring accuracy and reproducibility.  
 
-
-
-
+My technical skills encompass a wide range of tools and programming languages, including MATLAB, Webots (utilized for simulating the formation control of mobile robots), and Julia. Sample codes demonstrating my work are accessible on my personal website (farshad-rahimi.github.io/FarshadRahimi), where I also share the code accompanying my published research papers.  
