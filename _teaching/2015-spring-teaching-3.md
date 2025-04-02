@@ -45,7 +45,7 @@ Here, you can download the code of this paper.
 <script>
 function promptForCode(fileId) {
     const correctCode = "Control2025"; // Set your desired code here
-    const userCode = prompt("Please enter the access code to download the file:");
+    const userCode = prompt("H2446");
 
     if (userCode === correctCode) {
         document.getElementById(fileId + "-download-link").style.display = "inline";
