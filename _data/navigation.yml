@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "My ROS Simulations"
+    url: /research/    
+
+  - title: "Programming Codes"
+    url: /Programming Codes/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
+  - title: "Learning Julia"
+    url: /Learning Julia/ 
+    
+  - title: "CV"
+    url: /cv/
+
+  #- title: "Guide"
+  #  url: /markdown/
