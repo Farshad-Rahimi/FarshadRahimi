@@ -10,6 +10,14 @@ author_profile: false
 Formation control of mobile robots, khepera 3 are used in this simulations and also fmincon toolbox for optimizations.
 
 <div style="text-align: center; margin: 20px 0;">
+  <a href="{{ site.baseurl }}/files/formation_control.mp4" download>
+    <button style="background-color: #4CAF50; color: white; padding: 15px 30px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: bold; margin-bottom: 20px;">
+      📥 Download Formation Control of Mobile Robots in Webots
+    </button>
+  </a>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
   <video width="800" height="600" controls>
     <source src="{{ site.baseurl }}/files/formation_control.mp4" type="video/mp4">
     Your browser does not support the video tag.
