@@ -3,8 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/    
+   - title: "Research"
+    url: /research/
+  - title: "My ROS Simulations"
+    url: /research/   
 
   - title: "Programming Codes"
     url: /Programming Codes/    
