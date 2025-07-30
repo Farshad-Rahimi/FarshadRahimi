@@ -3,56 +3,35 @@ layout: single
 title: "My ROS Simulations"
 permalink: /research/
 author_profile: false
+date: null
 ---
 
 ## Formation Control of Mobile Robots
 
-Formation control of mobile robots, khepera 3 are used in this simulations and also fmincon toolbox for optimizations.
+Formation control of mobile robots, Khepera 3 robots are used in these simulations and also the fmincon toolbox for optimizations.
+
+Simulation has been the result of the proposed method in my paper:
+
+**Rahimi, Farshad**, and Reza Mahboobi Esfanjani. "A Distributed Dual Decomposition Optimization Approach for Coordination of Networked Mobile Robots with Communication Delay." 2021 9th RSI International Conference on Robotics and Mechatronics (ICRoM). IEEE, 2021.
+
+**DOI**: https://ieeexplore.ieee.org/abstract/document/9663474
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="{{ site.baseurl }}/files/formation_control.mp4" download>
+  <img src="{{ site.baseurl }}/files/webots1.png" alt="Webots Simulation" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="{{ site.baseurl }}/files/Simulation.rar" download>
     <button style="background-color: #4CAF50; color: white; padding: 15px 30px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: bold; margin-bottom: 20px;">
-      📥 Download Formation Control of Mobile Robots in Webots
+      📥 Download Webots_Matlab_ROS_Codes
     </button>
   </a>
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <video width="800" height="600" controls>
-    <source src="{{ site.baseurl }}/files/formation_control.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-## Multi-Agent System Simulations
-
-### Distributed Formation Control for Networked Mobile Robots
-
-| ![Formation Control](https://farshad-rahimi.github.io/FarshadRahimi/images/opt1.png) | This simulation demonstrates distributed formation control for networked mobile robots using ROS (Robot Operating System). The implementation uses Khepera 3 robots in a multi-agent system where each robot communicates with its neighbors to maintain a desired formation. The control algorithm incorporates communication delays and network topology constraints, making it robust for real-world applications. The simulation shows how robots coordinate their movements to achieve and maintain formation while avoiding obstacles. |
-
-## Fault-Tolerant Control Simulations
-
-### Fault Detection and Estimation in Networked Systems
-
-| ![Fault Estimation](https://farshad-rahimi.github.io/FarshadRahimi/images/fault1.png) | This simulation focuses on fault-tolerant control for nonlinear networked systems using ROS. The system implements distributed fault estimation where each agent monitors both its own state and the states of neighboring agents. The simulation demonstrates how the system can detect and compensate for faults in real-time, ensuring robust operation even when communication channels are unreliable or when delays occur in the network. The fault estimation approach uses advanced observer design techniques to maintain system stability under various fault conditions. |
-
-## Simulation Tools and Technologies
-
-### Platforms and Software Used:
-
-- **ROS (Robot Operating System)**: Primary framework for robot simulation and control
-- **Khepera 3 Robots**: Physical robots used in formation control experiments
-- **MATLAB fmincon**: Optimization toolbox for solving constrained optimization problems
-- **Gazebo Simulator**: 3D robotics simulator for testing algorithms before real-world deployment
-- **Python/C++**: Programming languages for implementing control algorithms
-- **Linear Matrix Inequalities (LMIs)**: Mathematical framework for stability analysis
-
-## Research Applications
-
-### Real-World Applications:
-
-- **Autonomous Vehicle Platooning**: Coordinated movement of multiple vehicles
-- **Drone Swarm Control**: Formation flying for surveillance and delivery
-- **Industrial Robotics**: Coordinated manufacturing processes
-- **Search and Rescue**: Multi-robot exploration and mapping
-- **Agricultural Robotics**: Coordinated field monitoring and harvesting 
+  <a href="{{ site.baseurl }}/files/formation_control.mp4" download>
+    <button style="background-color: #2196F3; color: white; padding: 15px 30px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-weight: bold; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(33, 150, 243, 0.3); transition: all 0.3s ease;">
+      🎥 Download ROS Results Video
+    </button>
+  </a>
+</div> 
